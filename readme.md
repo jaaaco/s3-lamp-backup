@@ -1,3 +1,5 @@
+[![Docker Build Status](https://img.shields.io/docker/build/jaaaco/s3-lamp-backup.svg)](https://hub.docker.com/r/jaaaco/s3-lamp-backup/)
+
 # Backup mysql database and project files to AWS S3
 
 This container can be used as a part of LAMP stack to perform automatic backup / restore of mysql database and project files
